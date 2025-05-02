@@ -1,2 +1,1 @@
-legalbench - https://huggingface.co/datasets/nguha/legalbench
-SQUAD V2 - https://huggingface.co/datasets/rajpurkar/squad_v2
+Datasets and DBs - https://buffalo.app.box.com/folder/319387790244

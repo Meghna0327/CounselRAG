@@ -17,4 +17,4 @@ Our goal is to enable intelligent interaction with large collections of legal do
 ---
 ### 📊 Architecture Diagram
 
-![Architecture Diagram](./arch.png)
+![Architecture Diagram](./images/architecture.png)
